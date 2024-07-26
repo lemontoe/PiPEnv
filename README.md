@@ -9,9 +9,17 @@
 ## How to use PiPEnv
 
 **Should be straight forward enough. Even a monkey could figure it out.**
-1. Open PiPEnv.bat
-2. Provide your installed python path
-3. Magic
+
+**NOTE:** (For PiPEnv_Typable) The only python path you should be using is *Python310, Python312, etc.*
+
+- PiPEnv_Selectable.bat
+  1. Open
+  2. Select Python Path
+  3. Magic
+- PiPEnv_Typable
+  1. Open
+  2. Type/Paste Python Path
+  3. Magic
 
 ## Why does PiPEnv even exist?
 
