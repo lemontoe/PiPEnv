@@ -16,10 +16,10 @@
   1. Open
   2. Select Python Path
   3. Magic
-- PiPEnv_Typable
+- PiPEnv_Typable.bat
   1. Open
   2. Type/Paste Python Path
-  3. Magic
+  3. Magic 
 
 ## Why does PiPEnv even exist?
 
